@@ -1,0 +1,11 @@
+{
+  "name": "last-day-of-last-month",
+  "description": "returns a new date object for the last day of last month",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/last-day-of-last-month.js"
+}
